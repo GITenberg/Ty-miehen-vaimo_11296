@@ -1,0 +1,30 @@
+_repo: Ty-miehen-vaimo_11296
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Canth, Minna
+    aliases:
+    - Canth, Ulrika Vilhelmina Johnsson
+    - Johnsson, Ulrika Vilhelmina
+    birthdate: 1844
+    deathdate: 1897
+    gutenberg_agent_id: '3553'
+    url: http://www.gutenberg.org/2009/agents/3553
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Minna_Canth
+    - http://en.wikipedia.org/wiki/Minna_Canth
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11296'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama'
+- !lcc 'PH'
+- GITenberg
+title: Työmiehen vaimo
+url: http://www.gutenberg.org/ebooks/11296
