@@ -1,5 +1,8 @@
 _repo: Ty-miehen-vaimo_11296
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Canth, Minna
@@ -14,6 +17,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Minna_Canth
     - http://en.wikipedia.org/wiki/Minna_Canth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11296#Ty-miehen-vaimo
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
